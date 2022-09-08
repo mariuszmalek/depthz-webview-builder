@@ -1,6 +1,6 @@
-# CastingStudio
+# Depthz webview builder
 
-A new Flutter project.
+A repository that allows you to quickly build a mobile application (Android and IOS) in the webview (Flutter) technology.
 
 ## Getting Started
 
